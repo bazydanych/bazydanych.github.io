@@ -5,23 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>HowToPraiseTheHolyPeanut.github.io</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="HowToPraiseTheHolyPeanut.github.io" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://howtopraisetheholypeanut.github.io/" />
-<meta property="og:url" content="https://howtopraisetheholypeanut.github.io/" />
-<meta property="og:site_name" content="HowToPraiseTheHolyPeanut.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="HowToPraiseTheHolyPeanut.github.io" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"HowToPraiseTheHolyPeanut.github.io","name":"HowToPraiseTheHolyPeanut.github.io","url":"https://howtopraisetheholypeanut.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=c1d486499b3878659388d0774bed94d8108098bf">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
 
@@ -35,8 +19,6 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://howtopraisetheholypeanut.github.io/">HowToPraiseTheHolyPeanut.github.io</a></h1>
       
 
       <html>
